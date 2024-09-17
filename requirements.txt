@@ -134,7 +134,6 @@ python-dateutil==2.9.0.post0
 python-engineio==4.9.1
 python-socketio==5.11.4
 pytz==2024.1
-pywin32-ctypes==0.2.3
 PyYAML==6.0.1
 pyzmq==26.0.3
 referencing==0.35.1
@@ -187,7 +186,6 @@ webcolors==1.13
 websocket-client==1.8.0
 websockets==12.0
 Werkzeug==3.0.2
-WMI==1.5.1
 wsproto==1.2.0
 xxhash==3.4.1
 yarl==1.9.4
